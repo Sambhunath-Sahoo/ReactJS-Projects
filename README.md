@@ -1,4 +1,3 @@
-# ReactJS-Projects
 > React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. Here are some of the projects that i build using ReactJS
 
 - [Netflix-Clone](https://github.com/Sambhunath-Sahoo/netflix-clone)
