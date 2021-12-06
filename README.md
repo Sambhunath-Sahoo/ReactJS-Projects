@@ -12,7 +12,9 @@
 - [Spotify-Clone](https://github.com/Sambhunath-Sahoo/spotify-clone)
 ![Screenshot 2021-12-04 162719](https://user-images.githubusercontent.com/47670994/144706960-2f4c11a1-fe1b-4ab8-9cbf-f42c6cd56435.png)
 
+- [Movies-App](https://github.com/Sambhunath-Sahoo/movies-app)
 
+- [Reels-clone](https://github.com/Sambhunath-Sahoo/reels-clone)
 
 
 
